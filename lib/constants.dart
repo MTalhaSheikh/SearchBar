@@ -1,0 +1,12 @@
+List descriptionList = [
+  {
+    "Multan": "Multan is a city and capital of Multan Division located in Punjab, Pakistan. Situated on the bank of the Chenab River, Multan is Pakistan's 7th largest city and is the major cultural and economic centre of Southern Punjab. Multan's history stretches deep into antiquity",
+    "Lahore": "Lahore is the capital of the Pakistani province of Punjab and is the country's 2nd largest city after Karachi, as well as the 26th largest city in the world. Lahore is one of Pakistan's wealthiest cities with an estimated GDP of 84 billion as of 2019",
+    "Faisalabad": "Faisalabad, formerly known as Lyallpur, is the third-most-populous city in Pakistan after Karachi and Lahore respectively, and the second-largest in the eastern province of Punjab. Historically one of the first planned cities within British India, it has long since developed into a cosmopolitan metropolis",
+    "Islamabad": "Islamabad is the capital city of Pakistan, and is administered by the Pakistani federal government as part of the Islamabad Capital Territory. It is the ninth-largest city in Pakistan, while the larger Islamabad–Rawalpindi metropolitan area is the country's third-largest with a population of about 4.1 million people",
+    "Pindi": "Rawalpindi, colloquially known as Pindi, is the capital city of Rawalpindi Division located in the Punjab province of Pakistan. Rawalpindi is the fourth-largest city proper in Pakistan, while the larger Islamabad-Rawalpindi metropolitan area is the country's fourth largest metropolitan area",
+    "Bahawalpur": "Bahawalpur, is a city located in the Punjab province of Pakistan. Bahawalpur is the 11th largest city in Pakistan by population as per 2017 census with a population of 762,111. Founded in 1748, Bahawalpur was the capital of the former princely state of Bahawalpur, ruled by the Abbasi family of Nawabs until 1955.",
+    "Karachi": "Karachi is the largest city in Pakistan and the twelfth largest city in the world. It is the capital of the Pakistani province of Sindh. Ranked as a beta-global city, the city is Pakistan's premier industrial and financial centre, with an estimated GDP of 164 billion as of 2019.",
+     "Kashmir": "Jammu and Kashmir was a state of India from 1954 to 2019, constituting the southern and southeastern portion of the larger Kashmir region, which has been the subject of a dispute between India, Pakistan and China since the mid-20th century",
+  }
+];
